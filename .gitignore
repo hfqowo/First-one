@@ -1,0 +1,31 @@
+# 忽略项目目录下的所有 readme.md
+# readme.md
+
+# 忽略当前目录下的readme.md
+# /readme.md
+
+# 忽略所有以 html 为后缀的文件
+# *.html
+
+# 忽略当前目录下的所有 html文件
+# /*.html
+
+# 忽略所有目录
+# 目录名/
+
+# 忽略当前目录下的指定目录
+# /目录名/
+
+
+# 忽略所有的html文件 留下index.html
+# *.html
+# !index.html
+
+# 忽略两个字符的HTML文件
+# ??.html
+
+# 忽略 a,b,c .html
+# [abc].html
+
+# 
+# **
